@@ -1,0 +1,2 @@
+INDEX VERSION 1.3+/home/rudra/node_workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+277234168.index
